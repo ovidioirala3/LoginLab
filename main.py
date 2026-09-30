@@ -5,7 +5,7 @@ usuario = input("Ingese su nombre de usuario: ")
 contrasena = input("Ingrese su contrasena: ")
 
 if nombre_correcto==usuario and contrasena_correcta==contrasena:
-    print ("La sesion fue iniciada correctamente!")
+    print ("Bienvenido, usuario y contrasena encontrada")
     print("Bienvendio a la plataforma", nombre_correcto)
 else:
     print("Usuario o contrasena incorrecta")
