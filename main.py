@@ -9,4 +9,4 @@ if nombre_correcto==usuario and contrasena_correcta==contrasena:
     print("==LOGIN LAB==")
     print("Bienvendio a la plataforma", nombre_correcto)
 else:
-    print("Usuario o contrasena incorrecta")
+    print("Credendciales incorrectas. Intente de nuevo")
